@@ -1,0 +1,3 @@
+say("DOGECODE BUILDER 1.0")
+launch(Find.loc('DogeCode Builder 1.0'))
+trans.Code('DogeCode Builder 1.0')
