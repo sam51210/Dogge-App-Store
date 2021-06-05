@@ -8,7 +8,4 @@ Emoji abbreviation: 🐶🍎🧺
 
 Word abbreviation: DAS
 
-Ok so typing is boring so why don't you go and see the featured apps?
-
-<button type="submit" formaction="https://doggegamingtime.github.io/Dogge-App-Store/features">
-  
+Ok, so typing is boring so why don't you go and see the <a href="https://doggegamingtime.github.io/Dogge-App-Store/featured" target="_blank">featured apps?</a>
